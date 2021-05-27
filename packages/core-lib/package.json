@@ -3,10 +3,10 @@
   "version": "3.1.0",
   "license": "MIT",
   "private": true,
-  "homepage": "https://github.com/belgattitude/nextjs-monorepo-example",
+  "homepage": "https://github.com/belgattitude/xstate-wizzard-poc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/belgattitude/nextjs-monorepo-example",
+    "url": "https://github.com/belgattitude/xstate-wizzard-poc",
     "directory": "packages/core-lib"
   },
   "author": {

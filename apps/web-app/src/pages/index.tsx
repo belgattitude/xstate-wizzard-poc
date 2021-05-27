@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <NextSeo
         title="[blog-app] nextjs-monorepo example"
-        description="See https://github.com/belgattitude/nextjs-monorepo-example"
+        description="See https://github.com/belgattitude/xstate-wizzard-poc"
       />
 
       <Layout>
